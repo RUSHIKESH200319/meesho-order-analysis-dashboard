@@ -34,5 +34,6 @@ Allows dynamic date-based filtering to analyze trends over different periods.
 High Delivery Success Rate – But returns/cancellations need attention for customer retention.
 Regional Focus – Targeting high-performing states for campaigns and promotions can increase revenue.
 Sales Peaks – Analyzing why certain dates spike (sales events, festivals) can help plan future campaigns.
+![image](https://github.com/user-attachments/assets/f795bdd3-e6df-4eea-81c4-e6a1edd21705)
 
 
